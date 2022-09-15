@@ -19,7 +19,7 @@ R version 3.6.1
 To be updated
 
 # Data
-The training datasets (i.e., evacuation.csv) have the data structure as detailed below:
+The original dataset has the data structure as detailed below:
 1.	Each row is an observation and each column is a variable.
 2.	There are 31 variables (i.e., 31 columns) in total, including Residence_Less5, Residence_10more, Own_House, Detached, Multi-family, Mobile_Manufactured, Warning_Trust_Source, Warning_In_Person, Fire_Cues, Evacuation_Decision, Female, Children, Adult, Animals, Emergency_plan, Medical_condition, Age_45_54, Age_55_64, Age_65more, Preparation, Bachelor, Graduate, Income_50000_74999, Income_75000_99999, Income_100000_124999, Income_125000_149999, Income_150000_174999, Income_175000more, Prefire_perceptions_of_safety, Risk_Perceiption, Prior_Awareness_Threat. Please refer to the paper (Subsection 3.2) for more details about the data and variables.
 
