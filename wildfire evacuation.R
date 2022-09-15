@@ -16,7 +16,7 @@ library(xgboost) #training XGBoost
 library(nnet) #traning ANN
 
 ###loading data and transfer categorical variable to factor
-evacuation <- read.csv("C:/Users/ningz/Desktop/Wildfire R/demo.csv",header = T)
+evacuation <- read.csv("demo.csv",header = T)
 
 #data processing
 for(i in 1:31){#13:number of adult; 29: prefire precption of safety; 30: risk perception; 31: prior awareness of threat 
