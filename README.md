@@ -1,4 +1,4 @@
-# ML-for-Modeling-Wildfire-Eva-DM
+# Predicting and Assessing Wildfire Evacuation Decision-Making Using Machine Learning: Findings from the 2019 Kincade Fire
 Implemented by Ningzhe Xu, Civil, Construction and Environmental Engineering, The University of Alabama.
 
 # Required Software
