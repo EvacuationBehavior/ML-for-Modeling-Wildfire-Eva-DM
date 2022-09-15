@@ -25,4 +25,4 @@ The original dataset has the data structure as detailed below:
 
 A simulated dataset with 5 observations (i.e., demo.csv) is provided as an example to illustrate the data structure.
 
-The original dataset cannot be publicly released under IRB regulations. For any questions, please contact xilei.zhao@essie.ufl.edu.
+The original dataset cannot be publicly released under IRB regulations. For any questions, please contact Ningzhe Xu <nxu3@crimson.ua.edu> and/or Xilei Zhao <xilei.zhao@essie.ufl.edu>.
