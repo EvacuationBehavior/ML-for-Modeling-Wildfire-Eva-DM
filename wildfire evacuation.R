@@ -1,5 +1,5 @@
 # Model Comparison and testing
-# Ningzhe Xu
+# [WILL BE UPDATED AFTER PAPER IS ACCEPTED]
 # 9/16/2022
 
 rm(list = ls())
