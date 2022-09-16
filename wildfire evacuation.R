@@ -1,4 +1,4 @@
-# Model Comparison and testing
+# Model Comparison and Paired t-test
 # [WILL BE UPDATED AFTER PAPER IS ACCEPTED]
 # 9/16/2022
 
