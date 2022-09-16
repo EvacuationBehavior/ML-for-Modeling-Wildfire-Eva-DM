@@ -1,5 +1,5 @@
 # Predicting and Assessing Wildfire Evacuation Decision-Making Using Machine Learning: Findings from the 2019 Kincade Fire
-Implemented by Ningzhe Xu, Civil, Construction and Environmental Engineering, The University of Alabama.
+Implemented by [WILL BE UPDATED AFTER PAPER IS ACCEPTED].
 
 # Required Software
 R version 3.6.1
@@ -25,4 +25,4 @@ The original dataset has the data structure as detailed below:
 
 A simulated dataset with 5 observations (i.e., demo.csv) is provided as an example to illustrate the data structure. The original dataset cannot be publicly released under IRB regulations. 
 
-For any questions, please contact Ningzhe Xu (nxu3@crimson.ua.edu) and/or Xilei Zhao (xilei.zhao@essie.ufl.edu).
+For any questions, please contact [WILL BE UPDATED AFTER PAPER IS ACCEPTED].
