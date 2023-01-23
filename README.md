@@ -1,5 +1,5 @@
 # Predicting and Assessing Wildfire Evacuation Decision-Making Using Machine Learning: Findings from the 2019 Kincade Fire
-Implemented by [WILL BE UPDATED AFTER PAPER IS ACCEPTED].
+Implemented by Ningzhe Xu.
 
 # Required Software
 R version 3.6.1
@@ -16,7 +16,7 @@ R version 3.6.1
 * wildfire evacuation.R: R code for comparing machine learning models and the logistic regression, and testing whether the difference in their performances is significant.
 
 # Paper
-To be updated
+Xu, N., Lovreglio, R., Kuligowski, E.D., Cova, T.J., Nilsson, D., & Zhao, X. Predicting and Assessing Wildfire Evacuation Decision-Making Using Machine Learning: Findings from the 2019 Kincade Fire. Fire Technol (2023). https://doi.org/10.1007/s10694-023-01363-1
 
 # Data
 The original dataset has the data structure as detailed below:
@@ -25,4 +25,4 @@ The original dataset has the data structure as detailed below:
 
 A simulated dataset with 5 observations (i.e., demo.csv) is provided as an example to illustrate the data structure. The original dataset cannot be publicly released under IRB regulations. 
 
-For any questions, please contact [WILL BE UPDATED AFTER PAPER IS ACCEPTED].
+For any questions, please contact Ningzhe Xu (nxu3@crimson.ua.edu).
